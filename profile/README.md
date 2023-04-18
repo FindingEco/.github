@@ -1,5 +1,9 @@
 # Finding Eco 
-## Hi there 👋
+Finding Eco is an organization that promotes sustainability by helping you make sustainable choices! 
+We want to help you find sustainable shops and brands in your area! 
+
+
+## Application
 
 <!--
 
