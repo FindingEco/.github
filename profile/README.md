@@ -2,6 +2,7 @@
 Finding Eco is an organization that promotes sustainability by helping you make sustainable choices! 
 We want to help you find sustainable shops and brands in your area! 
 
+Finding Eco will also be useful for supporting local businesses and hopes to expand to add local farmers markets to support local farmers. 
 
 ## Application
 
